@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8//34P0IHtpRUoQeaDtrDB42wwfVWHPr0lsTHy74tWXGTeSBgvUabI+BJwRGZqM6Pf6XFQOHOptBSe6O834Xaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igor\\source\\repos\\AppRunner\\AppRunner\\AppRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igor\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\igor\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

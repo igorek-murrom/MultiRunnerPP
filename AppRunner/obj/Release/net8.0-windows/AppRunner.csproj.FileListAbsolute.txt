@@ -1,0 +1,16 @@
+C:\Users\igor\source\repos\AppRunner\AppRunner\bin\Release\net8.0-windows\AppRunner.exe
+C:\Users\igor\source\repos\AppRunner\AppRunner\bin\Release\net8.0-windows\AppRunner.deps.json
+C:\Users\igor\source\repos\AppRunner\AppRunner\bin\Release\net8.0-windows\AppRunner.runtimeconfig.json
+C:\Users\igor\source\repos\AppRunner\AppRunner\bin\Release\net8.0-windows\AppRunner.dll
+C:\Users\igor\source\repos\AppRunner\AppRunner\bin\Release\net8.0-windows\AppRunner.pdb
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\AppRunner.Form1.resources
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\AppRunner.csproj.GenerateResource.cache
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\AppRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\AppRunner.AssemblyInfoInputs.cache
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\AppRunner.AssemblyInfo.cs
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\AppRunner.csproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\AppRunner.dll
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\refint\AppRunner.dll
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\AppRunner.pdb
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\AppRunner.genruntimeconfig.cache
+C:\Users\igor\source\repos\AppRunner\AppRunner\obj\Release\net8.0-windows\ref\AppRunner.dll

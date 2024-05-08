@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#Author: igor
+#AppRunner.exe
+#Rating=1-5
+export PW_VULKAN_USE="1"
+export PW_WINE_USE="PROTON_LG_9-4"
+export PW_PREFIX_NAME="DEFAULT"
